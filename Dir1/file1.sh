@@ -1,3 +1,4 @@
+#New changes
 #!/bin/bash
 
 echo "Enter your marks:"
